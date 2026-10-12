@@ -1,0 +1,5 @@
+requests>=2.31.0,<3.0
+SpeechRecognition>=3.10.0,<4.0
+pyttsx3>=2.90,<3.0
+# Microphone support requires PyAudio. Install a compatible wheel for your OS/Python.
+PyAudio>=0.2.14
